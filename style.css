@@ -70,7 +70,7 @@ section{
 }
 
 .hero-img{
-    background: linear-gradient(rgba(170, 92, 219, 0.6),rgba(170, 92, 219, 0.6)) ,url(images/image-header-mobile.jpg) no-repeat;
+    background: linear-gradient(rgba(170, 92, 219, 0.6),rgba(170, 92, 219, 0.6)) ,url(image-header-mobile.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     width: 100%;
